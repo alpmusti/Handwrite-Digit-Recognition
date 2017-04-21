@@ -2,7 +2,7 @@
 
 Bu örnekte, scikit-learn kütüphanesi ve kütüphane içerisindeki veri seti kullanılarak el yazısı ile yazılmış rakamları tahmin etme algoritması çalıştırılmaktadır.
 
-.`Dependencies :`
+.Dependencies :
 * SciPy
 * NumPy
 * scikit-learn
